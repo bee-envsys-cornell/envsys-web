@@ -1,0 +1,60 @@
+project:
+  type: website
+  preview:
+    port: 4200
+
+website:
+  title: "Environmental Systems Analysis"
+  site-url: https://envsys.viveks.me
+  repo-url: https://github.com/bee-envsys-cornell/
+  description: "Course website for BEE 4750/5750, Environmental Systems Analysis, at Cornell"
+  search: true
+  open-graph:     
+    locale: es_ES
+    site-name: https://envsys.viveks.me/
+  twitter-card: true
+  navbar:
+    title: ""
+    left:
+      - text: "Select Semester"
+        menu:
+          - text: "Fall 2024"
+            href: https://envsys.viveks.me/fall2024/
+          - text: "Fall 2023"
+            href: https://envdata.viveks.me/fall2023/
+          - text: "Fall 2022"
+            href: https://envdata.viveks.me/fall2022/
+    right:
+      - text: About
+        icon: question-circle
+        href: about.qmd
+      - text: Contact
+        icon: envelope
+        href: mailto:vs498@cornell.edu
+      - text: Repository
+        icon: github
+        href: https://github.com/bee-envsys-cornell
+  page-footer:
+    background: "#F7F7F7"
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Vivek Srikrishnan</span><br>
+      See the [About Page](/about.qmd) for credit information.
+    center: 
+      - text: "<a href='https://creativecommons.org/licenses/by-sa/4.0/deed.en'>LICENSE: CC-BY-SA {{< fa creative-commons-sa >}} <i class='fab fa-creative-commons'></i><i class='fab fa-creative-commons-by'></i><i class='fab fa-creative-commons-sa'></i></a>"
+    right: |
+      Made with
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+
+      
+format:
+  html:
+    theme: sass/theme.scss
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    toc: true
+
+resources:
+  - _redirects
+

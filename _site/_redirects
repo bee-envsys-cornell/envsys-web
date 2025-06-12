@@ -1,0 +1,4 @@
+# Redirects for semesters
+/fall2022/* https://envsys-fa22.netlify.app/fall2022/:splat 200!
+/fall2023/* https://envsys-fa23.netlify.app/fall2023/:splat 200!
+/fall2024/* https://envsys-fa24.netlify.app/fall2024/:splat 200!

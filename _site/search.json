@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About The Course",
+    "section": "",
+    "text": "This course was developed to teach students to think in systems: how to understand the dynamics resulting from combinations of environmental processes and use mathematical optimization methods to identify management strategies. We emphasize computational modeling for both simulation and optimization and discuss related concepts such as lifecycle assessment and risk quantification. These methods are illustrated using a variety of environmental systems applications.\nPreviously, this course was taught by C. Lindsay Anderson and Doug Haith: the current version of the course owes a tremendous debt to both of them.\nAll materials for the course are publicly available and open source, except for assignment solutions (which are removed at the end of each semester). Assignments are also available as Jupyter notebooks in the GitHub organization for the course. We use the Julia programming language for computing tasks.\nThe code and structure of this website were adapted from John Paul Helveston’s course websites."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BEE 4750/5750: Environmental Systems Analysis",
+    "section": "",
+    "text": "This is the course website for BEE 4750/5750 at Cornell University. This course focuses on probabilistic modeling of environmental data-generating processes, including simulation methods and model evaluation and selection.\nChoose from the menu to view the course site for a particular semester."
+  }
+]

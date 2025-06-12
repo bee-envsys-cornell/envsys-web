@@ -1,0 +1,65 @@
+/*-- scss:defaults --*/
+
+// Colors
+$darkgray: #222222; 
+$cornellred: #b31b1b;
+$lightred: #DF1E12;
+$lightgray: #f7f7f7;
+$seagray: #9fad9f;
+$blue: #006699;
+$orange: #D47500;
+$warmgray: #A2998B;
+
+
+@import 'https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&IBM+Plex+Serif&family=Source+Serif+Pro&family=Source+Code+Pro&IBM+Plex+Mono&display=swap';
+
+@import 'https://kit.fontawesome.com/d16123e5b5.css';
+
+$font-family-sans-serif: "IBM Plex Sans", sans-serif;
+$font-family-monospace: "Source Code Pro", "IBM Plex Mono", monospace;
+$font-family-serif: "Source Serif Pro", "IBM Plex Serif", serif;
+
+$headings-font-family: $font-family-serif;
+
+
+// Bootstrap inputs
+
+$code-block-bg: #e7e7e7;
+$code-bg: #e7e7e7;
+
+// Navbar
+$navbar-bg: $lightgray !default;
+$navbar-fg: $darkgray !default;
+$navbar-hl: $cornellred !default;
+
+
+/*-- scss:rules --*/
+
+.cell-output pre {
+  background: #d7d7d7;
+}
+
+.course-details ul {
+    list-style: none;
+    text-indent: -0.7rem;
+    padding-left: 1.4rem;
+  }
+
+  .tools-wide {
+    padding-top: 0.5em;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+  }
+  
+.sidebar {
+ padding-right: 1.5em;
+}
+
+tr td {
+  padding: 0.5rem !important;
+}
+
+table .table >*>* {
+  padding: 0.5rem !important;
+}

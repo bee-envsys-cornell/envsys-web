@@ -1,0 +1,26 @@
+---
+title: "BEE 4750/5750: Environmental Systems Analysis"
+---
+
+<br>
+
+::: {.grid}
+
+::: {.g-col-3}
+
+<img src="images/envsys_logo.png" width="100%">
+
+:::
+
+::: {.g-col-1}
+:::
+
+::: {.g-col-8}
+
+This is the course website for [BEE](https://cals.cornell.edu/biological-environmental-engineering) 4750/5750 at [Cornell University](https://cornell.edu). This course focuses on probabilistic modeling of environmental data-generating processes, including simulation methods and model evaluation and selection.
+
+Choose from the menu to view the course site for a particular semester.
+
+:::
+
+:::

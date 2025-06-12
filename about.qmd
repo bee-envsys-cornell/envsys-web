@@ -1,0 +1,11 @@
+---
+title: "About The Course"
+---
+
+This course was developed to teach students to think in systems: how to understand the dynamics resulting from combinations of environmental processes and use mathematical optimization methods to identify management strategies. We emphasize computational modeling for both simulation and optimization and discuss related concepts such as lifecycle assessment and risk quantification. These methods are illustrated using a variety of environmental systems applications.
+
+Previously, this course was taught by [C. Lindsay Anderson](https://andersonenergylab-cornell.github.io/) and [Doug Haith](https://cals.cornell.edu/people/douglas-haith): the current version of the course owes a tremendous debt to both of them. 
+
+All materials for the course are publicly available and open source, except for assignment solutions (which are removed at the end of each semester). Assignments are also available as Jupyter notebooks in [the GitHub organization for the course](https://github.com/bee-envdata-cornell). We use the [Julia programming language](https://julialang.org) for computing tasks.
+
+The code and structure of this website were adapted from [John Paul Helveston](https://www.jhelvy.com/)'s course websites.
