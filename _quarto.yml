@@ -21,9 +21,9 @@ website:
           - text: "Fall 2024"
             href: https://envsys.viveks.me/fall2024/
           - text: "Fall 2023"
-            href: https://envdata.viveks.me/fall2023/
+            href: https://envsys.viveks.me/fall2023/
           - text: "Fall 2022"
-            href: https://envdata.viveks.me/fall2022/
+            href: https://envsys.viveks.me/fall2022/
     right:
       - text: About
         icon: question-circle
