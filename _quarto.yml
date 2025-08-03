@@ -18,6 +18,8 @@ website:
     left:
       - text: "Select Semester"
         menu:
+          - text: "Fall 2025"
+            href: https://envsys.viveks.me/fall2025/
           - text: "Fall 2024"
             href: https://envsys.viveks.me/fall2024/
           - text: "Fall 2023"
